@@ -1,0 +1,4 @@
+E:\mps tema 2\FaceDetector\FaceDetector\bin\Debug\netcoreapp3.0\FaceDetector.exe
+E:\mps tema 2\FaceDetector\FaceDetector\obj\Debug\netcoreapp3.0\FaceDetector.csprojAssemblyReference.cache
+E:\mps tema 2\FaceDetector\FaceDetector\obj\Debug\netcoreapp3.0\FaceDetector.AssemblyInfoInputs.cache
+E:\mps tema 2\FaceDetector\FaceDetector\obj\Debug\netcoreapp3.0\FaceDetector.AssemblyInfo.cs
