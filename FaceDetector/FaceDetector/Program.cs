@@ -40,6 +40,13 @@ namespace FaceDetector {
             var rightEyeRect = GetRectFromFace(grayImg, "haarcascade_righteye_2splits.xml");
 
 
+
+            for (int i = 0; i < bitmap.Width; i++) {
+                for (int j = 0; j < bitmap.Height; j++) {
+                    bitmap.SetPixel(i, j, Color.FromArgb(1, bitmap.GetPixel(i, j).R, bitmap.GetPixel(i, j).R, bitmap.GetPixel(i, j).R));
+                }
+            }
+
             using (Graphics graphics = Graphics.FromImage(bitmap)) {
                 using (Pen pen = new Pen(Color.Red, 1)) {
                     graphics.DrawRectangle(pen, faceRect);

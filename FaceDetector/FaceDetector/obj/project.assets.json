@@ -208,11 +208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\mps tema 2\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
+      "projectUniqueName": "E:\\mps tema 2\\MPS-imageFace\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
       "projectName": "FaceDetector",
-      "projectPath": "E:\\mps tema 2\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
+      "projectPath": "E:\\mps tema 2\\MPS-imageFace\\FaceDetector\\FaceDetector\\FaceDetector.csproj",
       "packagesPath": "C:\\Users\\Razziel\\.nuget\\packages\\",
-      "outputPath": "E:\\mps tema 2\\FaceDetector\\FaceDetector\\obj\\",
+      "outputPath": "E:\\mps tema 2\\MPS-imageFace\\FaceDetector\\FaceDetector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -226,6 +226,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Razziel\\AppData\\Local\\Esri\\NuGet": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -247,7 +248,7 @@
             "version": "[4.1.1.3497, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
